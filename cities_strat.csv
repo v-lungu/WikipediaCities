@@ -1,0 +1,101 @@
+,city,city_ascii,country,iso2,capital,population,continent,word_count,views,views_proportion
+13378,Euclid,Euclid,United States,US,,46550.0,NA,2133,272,0
+14119,Linton Hall,Linton Hall,United States,US,,41386.0,NA,705,16,0
+36241,Springs,Springs,United States,US,,7036.0,NA,780,495,0
+18727,Waukee,Waukee,United States,US,,24089.0,NA,948,169,0
+36726,Tabernacle,Tabernacle,United States,US,,6851.0,NA,2198,56,0
+24751,Fostoria,Fostoria,United States,US,,14458.0,NA,26,10,0
+4633,Lowell,Lowell,United States,US,,110997.0,NA,265,8,0
+12216,Weymouth,Weymouth,United States,US,,57746.0,NA,225,4,0
+5532,New Westminster,New Westminster,Canada,CA,,70996.0,NA,6095,1,0
+15590,Adelanto,Adelanto,United States,US,,34049.0,NA,1975,1,0
+23698,Parma,Parma,United States,US,,15699.0,NA,3367,4,0
+35211,New London,New London,United States,US,,7430.0,NA,160,5,0
+23712,Loma de Cabrera,Loma de Cabrera,Dominican Republic,DO,,15624.0,NA,197,22,0
+16301,Pichucalco,Pichucalco,Mexico,MX,minor,31107.0,NA,104,1,0
+20889,Monroe,Monroe,United States,US,,19799.0,NA,568,6,0
+13359,Perinton,Perinton,United States,US,,46671.0,NA,1334,5,0
+3727,Pueblo,Pueblo,United States,US,,143932.0,NA,742,9,0
+32044,Felida,Felida,United States,US,,8959.0,NA,440,311,0
+7767,Iselin,Iselin,United States,US,,18175.0,NA,155,0,0
+31993,Skidaway Island,Skidaway Island,United States,US,,8986.0,NA,649,2,0
+13448,Morgan Hill,Morgan Hill,United States,US,,45952.0,NA,3563,4,0
+19916,Bellview,Bellview,United States,US,,21515.0,NA,116,10,0
+21211,Corning,Corning,United States,US,,19296.0,NA,83,2,0
+31193,Winslow,Winslow,United States,US,,9443.0,NA,247,40,0
+21268,Maracaçumé,Maracacume,Brazil,BR,,19155.0,SA,25,4,0
+36924,São José da Barra,Sao Jose da Barra,Brazil,BR,,6778.0,SA,495,22,0
+41393,El Cocuy,El Cocuy,Colombia,CO,minor,5241.0,SA,50,5,0
+27763,Candelaria,Candelaria,Colombia,CO,minor,11635.0,SA,339,1,0
+22588,Itirapina,Itirapina,Brazil,BR,,17160.0,SA,44,16,0
+26557,Ataléia,Ataleia,Brazil,BR,,12678.0,SA,407,1,0
+27877,Jaqueira,Jaqueira,Brazil,BR,,11501.0,SA,142,0,0
+26768,Dom Basílio,Dom Basilio,Brazil,BR,,12499.0,SA,34,2,0
+33199,Marcelino Vieira,Marcelino Vieira,Brazil,BR,,8336.0,SA,32,5,0
+3589,Patos de Minas,Patos de Minas,Brazil,BR,,150833.0,SA,677,2,0
+28,Rio de Janeiro,Rio de Janeiro,Brazil,BR,admin,12486000.0,SA,12960,2,0
+38385,Cacaulândia,Cacaulandia,Brazil,BR,,6269.0,SA,389,3,0
+31124,Síndos,Sindos,Greece,GR,minor,9289.0,EU,106,12,0
+5325,Rubí,Rubi,Spain,ES,,78549.0,EU,216,50,0
+33033,Bystřice pod Hostýnem,Bystrice pod Hostynem,Czechia,CZ,,8129.0,EU,460,237,0
+31487,Altenbeken,Altenbeken,Germany,DE,,9147.0,EU,78,13,0
+32133,Kilbirnie,Kilbirnie,United Kingdom,GB,,7340.0,EU,1295,21,0
+5601,Vaasa,Vaasa,Finland,FI,admin,67619.0,EU,2467,4,0
+17001,Griesheim,Griesheim,Germany,DE,,27435.0,EU,36,188,0
+7965,Sutton on Hull,Sutton on Hull,United Kingdom,GB,,12649.0,EU,598,1,0
+26252,Lipari,Lipari,Italy,IT,,12819.0,EU,1560,1,0
+40973,Rocbaron,Rocbaron,France,FR,,5142.0,EU,32,11,0
+37442,Tsuman,Tsuman,Ukraine,UA,,6548.0,EU,96,1,0
+5641,Trnava,Trnava,Slovakia,SK,admin,65382.0,EU,2935,90,0
+29024,Braunsbedra,Braunsbedra,Germany,DE,,10678.0,EU,97,1,0
+38565,Prades-le-Lez,Prades-le-Lez,France,FR,,5581.0,EU,127,0,0
+10264,Jaworzno,Jaworzno,Poland,PL,minor,94305.0,EU,1348,5,0
+36193,Molochansk,Molochansk,Ukraine,UA,,7040.0,EU,206,4,0
+30581,Belomorsk,Belomorsk,Russia,RU,,9861.0,EU,724,141,0
+30411,Liesveld,Liesveld,Netherlands,NL,,9746.0,EU,44,16,0
+33262,Lauchringen,Lauchringen,Germany,DE,,7724.0,EU,58,2,0
+10986,Anzhero-Sudzhensk,Anzhero-Sudzhensk,Russia,RU,,76217.0,EU,385,5,0
+21584,Balş,Bals,Romania,RO,,18164.0,EU,229,2,0
+8517,Great Burstead,Great Burstead,United Kingdom,GB,,5968.0,EU,721,1,0
+6442,Targovishte,Targovishte,Bulgaria,BG,admin,39874.0,EU,781,15,0
+102,Madrid,Madrid,Spain,ES,primary,6006000.0,EU,14075,14,0
+22369,Forssa,Forssa,Finland,FI,minor,17422.0,EU,5201,73,0
+21095,Pozzallo,Pozzallo,Italy,IT,,19466.0,EU,133,10,0
+32827,Vietri sul Mare,Vietri sul Mare,Italy,IT,,7726.0,EU,360,1,0
+8482,Leven,Leven,United Kingdom,GB,,9040.0,EU,111,4,0
+41405,Wilhelmsdorf,Wilhelmsdorf,Germany,DE,,5103.0,EU,33,2624,0
+22683,Martinsicuro,Martinsicuro,Italy,IT,,15992.0,EU,245,1,0
+6504,Villeneuve-Saint-Georges,Villeneuve-Saint-Georges,France,FR,,34607.0,EU,1042,43,0
+5496,Benalmádena,Benalmadena,Spain,ES,,70204.0,EU,1628,1,0
+39053,Dubăsarii Vechi,Dubasarii Vechi,Moldova,MD,,5922.0,EU,86,576,0
+6203,Chorley,Chorley,United Kingdom,GB,,38420.0,EU,3789,1,0
+42005,Chechelnyk,Chechelnyk,Ukraine,UA,minor,5002.0,EU,247,1,0
+25995,Spilamberto,Spilamberto,Italy,IT,,12767.0,EU,142,5,0
+24731,Rovinj,Rovinj,Croatia,HR,minor,14294.0,EU,1383,3,0
+35740,Katak Chincholi,Katak Chincholi,India,IN,,6955.0,AS,0,22,0
+9286,Thinadhoo,Thinadhoo,Maldives,MV,admin,,AS,40,24,0
+38111,Timmasamudram,Timmasamudram,India,IN,,5993.0,AS,0,2,0
+21691,Mayorga,Mayorga,Philippines,PH,,18071.0,AS,219,2,0
+35334,Keskin,Keskin,Turkey,TR,minor,6832.0,AS,66,11,0
+20885,Guantiankan,Guantiankan,China,CN,,19665.0,AS,0,7,0
+11761,Kōshizuka,Koshizuka,Japan,JP,,61997.0,AS,0,4,0
+13620,Tiberias,Tiberias,Israel,IL,,44200.0,AS,5288,247,0
+23668,Kasumi,Kasumi,Japan,JP,,15704.0,AS,99,18,0
+1135,Lingbao Chengguanzhen,Lingbao Chengguanzhen,China,CN,minor,656571.0,AS,0,80,0
+4470,Nasushiobara,Nasushiobara,Japan,JP,,115602.0,AS,652,7,0
+6237,Pattani,Pattani,Thailand,TH,admin,44234.0,AS,992,17,0
+17834,Dengjiazhuang,Dengjiazhuang,China,CN,,26081.0,AS,0,10,0
+29806,Çumra,Cumra,Turkey,TR,minor,10299.0,AS,279,20,0
+10877,Argao,Argao,Philippines,PH,minor,78187.0,AS,437,121,0
+17748,Del Gallego,Del Gallego,Philippines,PH,,26403.0,AS,610,77,0
+17193,Hazar,Hazar,Turkmenistan,TM,,28095.0,AS,40,7,0
+15474,Xincheng,Xincheng,China,CN,,33248.0,AS,143,20,0
+10065,Xızı,Xizi,Azerbaijan,AZ,admin,,AS,39,19,0
+17840,Sanchez-Mira,Sanchez-Mira,Philippines,PH,,26164.0,AS,335,13,0
+2501,Ganda,Ganda,Angola,AO,,235486.0,AF,164,0,0
+31201,Tissint,Tissint,Morocco,MA,,9434.0,AF,145,0,0
+4411,Kindia,Kindia,Guinea,GN,admin,117062.0,AF,201,5,0
+35028,Douar Brarba,Douar Brarba,Morocco,MA,,7429.0,AF,0,69,0
+721,Bujumbura,Bujumbura,Burundi,BI,primary,658859.0,AF,1238,10,0
+20891,Zaouïa Aït Ishak,Zaouia Ait Ishak,Morocco,MA,,19133.0,AF,0,50,0
+7224,Wewak,Wewak,Papua New Guinea,PG,admin,25143.0,OC,331,0,0

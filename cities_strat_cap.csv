@@ -1,0 +1,101 @@
+,city,city_ascii,country,iso2,capital,population,continent,word_count
+716,Pretoria,Pretoria,South Africa,ZA,primary,741651.0,AF,6769
+9042,Mae Hong Son,Mae Hong Son,Thailand,TH,admin,6526.0,AS,426
+9526,Aranguez,Aranguez,Trinidad and Tobago,TT,admin,,NA,0
+9667,Vitanje,Vitanje,Slovenia,SI,admin,,EU,236
+8918,Bentiu,Bentiu,South Sudan,SS,admin,7781.0,AF,874
+7529,La Esperanza,La Esperanza,Honduras,HN,admin,21000.0,NA,399
+7017,Mendefera,Mendefera,Eritrea,ER,admin,28492.0,AF,357
+5488,Dabou,Dabou,Côte d'Ivoire,CI,admin,72913.0,AF,83
+9352,Priboj,Priboj,Serbia,RS,admin,,EU,560
+13367,Puerto Tejada,Puerto Tejada,Colombia,CO,minor,46166.0,SA,0
+32126,Makhambet,Makhambet,Kazakhstan,KZ,minor,8905.0,AS,38
+27753,Leidschendam,Leidschendam,Netherlands,NL,minor,10482.0,EU,1101
+30602,Ahmetli,Ahmetli,Turkey,TR,minor,9790.0,AS,90
+3395,Girón,Giron,Colombia,CO,minor,160403.0,SA,116
+13222,Saint-Malo,Saint-Malo,France,FR,minor,46478.0,EU,1751
+15364,Haguenau,Haguenau,France,FR,minor,34789.0,EU,1740
+120,Dazhou,Dazhou,China,CN,minor,5468097.0,AS,630
+3502,Zango,Zango,Nigeria,NG,minor,154743.0,AF,42
+38651,Dusheti,Dusheti,Georgia,GE,minor,6167.0,AS,365
+1917,Bamiantong,Bamiantong,China,CN,minor,330000.0,AS,0
+14858,Kizilyurt,Kizilyurt,Russia,RU,minor,37171.0,EU,503
+23762,Jędrzejów,Jedrzejow,Poland,PL,minor,15484.0,EU,1255
+8181,Canatlán,Canatlan,Mexico,MX,minor,10342.0,NA,0
+42505,Aouloumal,Aouloumal,Niger,NE,,6178.0,AF,0
+24738,Daulatnagar,Daulatnagar,India,IN,,13235.0,AS,296
+33379,Bad Schmiedeberg,Bad Schmiedeberg,Germany,DE,,8222.0,EU,255
+32613,Cabrils,Cabrils,Spain,ES,,7567.0,EU,358
+36481,Ogunimachi,Ogunimachi,Japan,JP,,6939.0,AS,89
+28708,Igarapé Grande,Igarape Grande,Brazil,BR,,11041.0,SA,26
+28598,Karapa,Karapa,India,IN,,10086.0,AS,29
+40215,Peveragno,Peveragno,Italy,IT,,5561.0,EU,2111
+3423,George,George,South Africa,ZA,,157394.0,AF,530
+32974,Kerrouchen,Kerrouchen,Morocco,MA,,7021.0,AF,24
+30345,Kirchlinteln,Kirchlinteln,Germany,DE,,9956.0,EU,178
+3004,Bārākpur,Barakpur,India,IN,,152783.0,AS,1841
+300,Longba,Longba,China,CN,,2567718.0,AS,0
+7738,Goulmima,Goulmima,Morocco,MA,,16419.0,AF,118
+25565,Wood Dale,Wood Dale,United States,US,,13607.0,NA,759
+41595,Mühlhausen,Muhlhausen,Germany,DE,,5058.0,EU,4700
+10762,San Francisco,San Francisco,Philippines,PH,,80760.0,AS,14133
+32315,Casarsa della Delizia,Casarsa della Delizia,Italy,IT,,8404.0,EU,131
+36336,Meraux,Meraux,United States,US,,7007.0,NA,256
+34045,West Boylston,West Boylston,United States,US,,7966.0,NA,1152
+1947,Gonder,Gonder,Ethiopia,ET,,323900.0,AF,1477
+5297,White Rock,White Rock,Canada,CA,,82368.0,NA,347
+37642,Boudry,Boudry,Switzerland,CH,,6152.0,EU,2289
+22681,Schwarzenberg,Schwarzenberg,Germany,DE,,16723.0,EU,254
+4576,Dolgoprudnyy,Dolgoprudnyy,Russia,RU,,108861.0,EU,0
+11629,Mecheria,Mecheria,Algeria,DZ,,65043.0,AF,144
+10539,Kattagan,Kattagan,Uzbekistan,UZ,,86745.0,AS,0
+10749,Novouralsk,Novouralsk,Russia,RU,,81202.0,EU,1002
+26608,Niefern-Öschelbronn,Niefern-Oschelbronn,Germany,DE,,12089.0,EU,385
+13439,Oro Valley,Oro Valley,United States,US,,46044.0,NA,3957
+30915,Bithlo,Bithlo,United States,US,,9627.0,NA,595
+28374,North Dundas,North Dundas,Canada,CA,,11278.0,NA,24
+26077,Stoughton,Stoughton,United States,US,,13114.0,NA,58
+27849,Videle,Videle,Romania,RO,,11508.0,EU,169
+38481,Balabyne,Balabyne,Ukraine,UA,,6010.0,EU,106
+29814,Belagola,Belagola,India,IN,,10121.0,AS,123
+18402,Gorantla,Gorantla,India,IN,,24586.0,AS,78
+18394,Grandview,Grandview,United States,US,,24856.0,NA,281
+27873,Anatolí,Anatoli,Greece,GR,,9798.0,EU,59
+22843,Colwood,Colwood,Canada,CA,,16859.0,NA,14
+14296,Glenrothes,Glenrothes,United Kingdom,GB,,38510.0,EU,9230
+30789,Philipstown,Philipstown,United States,US,,9715.0,NA,32
+26048,Culaba,Culaba,Philippines,PH,,12972.0,AS,151
+2599,Longjin,Longjin,China,CN,,221881.0,AS,0
+24598,Ayt ’Attou ou L’Arbi,Ayt 'Attou ou L'Arbi,Morocco,MA,,14544.0,AF,0
+15837,Ţafas,Tafas,Syria,SY,,32236.0,AS,598
+16841,Pontedera,Pontedera,Italy,IT,,29168.0,EU,1187
+4733,Alto Hospicio,Alto Hospicio,Chile,CL,,108375.0,SA,712
+34869,Central Huron,Central Huron,Canada,CA,,7576.0,NA,168
+36185,Berrien Springs,Berrien Springs,United States,US,,7060.0,NA,1195
+12393,Canterbury,Canterbury,United Kingdom,GB,,54880.0,EU,6912
+38180,Matarnia,Matarnia,Poland,PL,,5939.0,EU,80
+25777,South Park Township,South Park Township,United States,US,,13395.0,NA,1485
+26719,Armadale,Armadale,United Kingdom,GB,,12550.0,EU,128
+12945,Shawinigan,Shawinigan,Canada,CA,,50060.0,NA,2215
+35479,Winooski,Winooski,United States,US,,7333.0,NA,39
+13983,Monchegorsk,Monchegorsk,Russia,RU,,42099.0,EU,896
+18992,Sederot,Sederot,Israel,IL,,23090.0,AS,2171
+29190,Brejolândia,Brejolandia,Brazil,BR,,10698.0,SA,25
+31463,Gnarrenburg,Gnarrenburg,Germany,DE,,9204.0,EU,82
+40290,Fernandes Pinheiro,Fernandes Pinheiro,Brazil,BR,,5602.0,SA,26
+6484,El Hajeb,El Hajeb,Morocco,MA,,35282.0,AF,294
+32115,Charters Towers,Charters Towers,Australia,AU,,8126.0,OC,2424
+23851,Ifrane,Ifrane,Morocco,MA,,14659.0,AF,2444
+17105,San Giovanni in Persiceto,San Giovanni in Persiceto,Italy,IT,,28153.0,EU,2195
+334,Huainan,Huainan,China,CN,,2333896.0,AS,466
+12572,Elyria,Elyria,United States,US,,53757.0,NA,53
+12071,Chikuma,Chikuma,Japan,JP,,58755.0,AS,82
+41847,Volta Grande,Volta Grande,Brazil,BR,,5070.0,SA,171
+30731,Aghbalou Aqourar,Aghbalou Aqourar,Morocco,MA,,9715.0,AF,0
+14342,Baksan,Baksan,Russia,RU,,38192.0,EU,65
+28246,Gornozavodsk,Gornozavodsk,Russia,RU,,11375.0,EU,38
+16612,Crevillente,Crevillente,Spain,ES,,29717.0,EU,209
+27203,Solliès-Pont,Sollies-Pont,France,FR,,11496.0,EU,96
+15763,Almeirim,Almeirim,Brazil,BR,,33282.0,SA,1530
+23219,Walldorf,Walldorf,Germany,DE,,15534.0,EU,563
+29116,Taouloukoult,Taouloukoult,Morocco,MA,,10682.0,AF,40
